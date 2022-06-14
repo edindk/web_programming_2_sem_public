@@ -1,0 +1,11 @@
+@mixin sub-section {
+  //width: 100;
+  box-shadow: 0 4px 18px 0 rgb(32 76 136 / 15%);
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+@mixin spanStyle {
+  font-weight: bold;
+  font-size: 35px !important;
+}
